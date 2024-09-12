@@ -1,0 +1,59 @@
+.communityContent {
+    flex-grow: 1;
+}
+
+.skillsVerification {
+    margin-top: 5px;
+    background-color: var(--card-shadow-2);
+}
+
+.skillsVerificationHeaderBg {
+    background: #FBFDFD;
+    display: flex;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding-right: 20px;
+    padding-left: 20px;
+    min-width: 1024px;
+    max-width: 1240px;
+}
+
+.skillsVerificationHeaderText {
+    flex: 0 1 55%;
+    text-align: left;
+    padding-right: 20px;
+}
+
+.skillsVerificationHeading {
+    font-size: 40px;
+    font-family: 'Atoshi', 'Open Sans', sans-serif;
+    margin: 26.8px 0px;
+    color: var(--color-shade-darker);
+    line-height: 1.2;
+    text-align: left;
+    font-weight: normal;
+    /* Ensure the text is not bold */
+}
+
+.skillsVerificationText {
+    color: var(--color-text-dark-faded);
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+
+
+.skillsVerificationHeaderImage {
+    flex: 0 1 40%;
+    margin-left: 20px;
+    max-width: 70%;
+    height: 450px;
+    width: 40px;
+}

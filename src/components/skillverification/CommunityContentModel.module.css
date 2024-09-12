@@ -1,0 +1,26 @@
+.communityContent {
+    flex-grow: 1;
+}
+
+.skillsVerification {
+    margin-top: 5px;
+    background-color: var(--card-shadow-2);
+}
+
+.skillsVerificationHeaderBg {
+    background: #FBFDFD;
+    display: flex;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding-right: 20px;
+    padding-left: 20px;
+    min-width: 1024px;
+    max-width: 1240px;
+}

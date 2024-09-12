@@ -1,0 +1,32 @@
+.communityHeader {
+    height: 100px;
+    border-bottom: 0.3px solid rgb(219, 209, 209);
+    box-shadow: 0.1px 0.2px 5px;
+    display: flex;
+    align-items: center; 
+    padding-left: 20px; 
+}
+
+.communityHeaderContent {
+    display: flex;
+    flex-direction: column; 
+}
+
+.itemText {
+    vertical-align: middle;
+    margin: 0; 
+    font-size: 13px; /* Font size of 13px */
+    font-family: 'Satoshi', 'Open Sans', sans-serif; /* Font family with Satoshi, Open Sans, and sans-serif fallback */
+    color: #3A3A40; /* Font color */
+    line-height: 1.5; /* Line height */
+}
+
+.headline {
+    font-weight: 700;
+    font-family: var(--font-family-text);
+    color: var(--color-shade-darker);
+    letter-spacing: 0;
+    font-size: 26px;
+    line-height: 1.4;
+    margin: 0;
+}

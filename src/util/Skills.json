@@ -1,0 +1,173 @@
+{
+    "skills": [
+      {
+        "title": "CSS (Basic)",
+        "description": "It will cover basic CSS topics such as selectors, properties, colors, and layout. You are expected to style simple web pages and understand fundamental CSS rules.",
+        "category": "Frontend",
+        "img": "https://hrcdn.net/s3_pub/hr-assets/dashboard/CSS.svg",
+        "alt": "CSS Basic Logo"
+      },
+      {
+        "title": "CSS (Intermediate)",
+        "description": "It will cover intermediate CSS topics such as Flexbox, Grid layout, and responsive design. You are expected to create adaptable and more complex layouts for various devices.",
+        "category": "Frontend",
+        "img": "https://hrcdn.net/s3_pub/hr-assets/dashboard/CSS.svg",
+        "alt": "CSS Intermediate Logo"
+      },
+      {
+        "title": "CSS (Advanced)",
+        "description": "It will cover advanced CSS techniques including animations, transitions, and custom properties. You are expected to implement sophisticated and dynamic styles in web applications.",
+        "category": "Frontend",
+        "img": "https://hrcdn.net/s3_pub/hr-assets/dashboard/CSS.svg",
+        "alt": "CSS Advanced Logo"
+      },
+      {
+        "title": "JavaScript (Basic)",
+        "description": "It will cover basic topics in JavaScript such as variables, data types, functions, and control structures. You are expected to be proficient in writing simple scripts and understanding basic programming concepts.",
+        "category": "Frontend",
+        "img": "https://hrcdn.net/s3_pub/hr-assets/dashboard/JavaScript.svg",
+        "alt": "JavaScript Basic Logo"
+      },
+      {
+        "title": "JavaScript (Intermediate)",
+        "description": "It will cover intermediate topics in JavaScript including DOM manipulation, event handling, and asynchronous programming. You are expected to create interactive web applications and handle user events.",
+        "category": "Frontend",
+        "img": "https://hrcdn.net/s3_pub/hr-assets/dashboard/JavaScript.svg",
+        "alt": "JavaScript Intermediate Logo"
+      },
+      {
+        "title": "JavaScript (Advanced)",
+        "description": "It will cover advanced JavaScript topics such as closures, promises, and modern ES6+ features. You are expected to write complex applications and use advanced JavaScript patterns.",
+        "category": "Frontend",
+        "img": "https://hrcdn.net/s3_pub/hr-assets/dashboard/JavaScript.svg",
+        "alt": "JavaScript Advanced Logo"
+      },
+      {
+        "title": "Java (Basic)",
+        "description": "It will cover basic topics in Java language such as classes, data structures, inheritance, and exception handling. You are expected to be proficient in either Java 7 or Java 8.",
+        "category": "Backend",
+        "img": "https://hrcdn.net/s3_pub/hr-assets/dashboard/Java.svg",
+        "alt": "Java Basic Logo"
+      },
+      {
+        "title": "Java (Intermediate)",
+        "description": "It will cover intermediate topics in Java such as advanced data structures, multi-threading, and streams. You are expected to develop more complex Java applications and handle concurrent programming.",
+        "category": "Backend",
+        "img": "https://hrcdn.net/s3_pub/hr-assets/dashboard/Java.svg",
+        "alt": "Java Intermediate Logo"
+      },
+      {
+        "title": "Java (Advanced)",
+        "description": "It will cover advanced Java topics including design patterns, performance tuning, and enterprise-level application development. You are expected to have expertise in Java frameworks and advanced Java concepts.",
+        "category": "Backend",
+        "img": "https://hrcdn.net/s3_pub/hr-assets/dashboard/Java.svg",
+        "alt": "Java Advanced Logo"
+      },
+      {
+        "title": "Python (Basic)",
+        "description": "It will cover basic topics in Python such as syntax, control structures, functions, and data types. You are expected to be proficient in writing simple Python scripts and understanding core Python concepts.",
+        "category": "Backend",
+        "img": "https://hrcdn.net/s3_pub/hr-assets/dashboard/Python.svg",
+        "alt": "Python Basic Logo"
+      },
+      {
+        "title": "Python (Intermediate)",
+        "description": "It will cover intermediate Python topics including object-oriented programming, libraries, and modules. You are expected to create more complex applications and handle data manipulation.",
+        "category": "Backend",
+        "img": "https://hrcdn.net/s3_pub/hr-assets/dashboard/Python.svg",
+        "alt": "Python Intermediate Logo"
+      },
+      {
+        "title": "Python (Advanced)",
+        "description": "It will cover advanced Python topics such as concurrency, web frameworks, and data analysis. You are expected to have expertise in developing complex applications and using advanced Python features.",
+        "category": "Backend",
+        "img": "https://hrcdn.net/s3_pub/hr-assets/dashboard/Python.svg",
+        "alt": "Python Advanced Logo"
+      },
+      {
+        "title": "SQL (Basic)",
+        "description": "It will cover basic SQL topics such as queries, joins, and basic database operations. You are expected to be proficient in writing and understanding simple SQL queries for data retrieval.",
+        "category": "Database",
+        "img": "https://hr-assets.s3.amazonaws.com/dashboard/SQL.svg",
+        "alt": "SQL Basic Logo"
+      },
+      {
+        "title": "SQL (Intermediate)",
+        "description": "It will cover intermediate SQL topics such as complex queries, transactions, and indexing. You are expected to manage and query databases more effectively and efficiently.",
+        "category": "Database",
+        "img": "https://hr-assets.s3.amazonaws.com/dashboard/SQL.svg",
+        "alt": "SQL Intermediate Logo"
+      },
+      {
+        "title": "SQL (Advanced)",
+        "description": "It will cover advanced SQL topics including optimization, stored procedures, and advanced data manipulation. You are expected to handle complex database operations and performance tuning.",
+        "category": "Database",
+        "img": "https://hr-assets.s3.amazonaws.com/dashboard/SQL.svg",
+        "alt": "SQL Advanced Logo"
+      },
+      {
+        "title": "Node.js (Basic)",
+        "description": "It will cover basic topics in Node.js such as modules, event-driven programming, and HTTP server creation. You are expected to be proficient in building simple server-side applications with Node.js.",
+        "category": "Backend",
+        "img": "https://hrcdn.net/s3_pub/hr-assets/dashboard/Nodejs.svg",
+        "alt": "Node.js Basic Logo"
+      },
+      {
+        "title": "Node.js (Intermediate)",
+        "description": "It will cover intermediate topics in Node.js including Express.js, middleware, and database integration. You are expected to build more complex and scalable server-side applications.",
+        "category": "Backend",
+        "img": "https://hrcdn.net/s3_pub/hr-assets/dashboard/Nodejs.svg",
+        "alt": "Node.js Intermediate Logo"
+      },
+      {
+        "title": "Node.js (Advanced)",
+        "description": "It will cover advanced Node.js topics such as performance optimization, microservices, and security. You are expected to have expertise in building high-performance and secure applications.",
+        "category": "Backend",
+        "img": "https://hrcdn.net/s3_pub/hr-assets/dashboard/Nodejs.svg",
+        "alt": "Node.js Advanced Logo"
+      },
+      {
+        "title": "Go (Basic)",
+        "description": "It will cover basic topics in Go such as syntax, control structures, and functions. You are expected to be proficient in writing simple Go programs and understanding core Go concepts.",
+        "category": "Backend",
+        "img": "https://hrcdn.net/s3_pub/hr-assets/dashboard/Go.svg",
+        "alt": "Go Basic Logo"
+      },
+      {
+        "title": "Go (Intermediate)",
+        "description": "It will cover intermediate Go topics including concurrency, goroutines, and channels. You are expected to build concurrent applications and manage Go routines effectively.",
+        "category": "Backend",
+        "img": "https://hrcdn.net/s3_pub/hr-assets/dashboard/Go.svg",
+        "alt": "Go Intermediate Logo"
+      },
+      {
+        "title": "Go (Advanced)",
+        "description": "It will cover advanced Go topics such as performance optimization, Go interfaces, and microservices. You are expected to have expertise in building high-performance and scalable applications.",
+        "category": "Backend",
+        "img": "https://hrcdn.net/s3_pub/hr-assets/dashboard/Go.svg",
+        "alt": "Go Advanced Logo"
+      },
+      {
+        "title": "R (Basic)",
+        "description": "It will cover basic topics in R such as syntax, data types, and control structures. You are expected to be proficient in writing simple R scripts and understanding core R concepts.",
+        "category": "Data Science",
+        "img": "https://hrcdn.net/s3_pub/hr-assets/dashboard/R.svg",
+        "alt": "R Basic Logo"
+      },
+      {
+        "title": "R (Intermediate)",
+        "description": "It will cover intermediate R topics including data manipulation, visualization, and statistical analysis. You are expected to perform more complex data analysis and create visualizations.",
+        "category": "Data Science",
+        "img": "https://hrcdn.net/s3_pub/hr-assets/dashboard/R.svg",
+        "alt": "R Intermediate Logo"
+      },
+      {
+        "title": "R (Advanced)",
+        "description": "It will cover advanced R topics such as machine learning, advanced statistical methods, and data mining. You are expected to have expertise in developing sophisticated data models and analysis.",
+        "category": "Data Science",
+        "img": "https://hrcdn.net/s3_pub/hr-assets/dashboard/R.svg",
+        "alt": "R Advanced Logo"
+      }
+    ]
+  }
+  

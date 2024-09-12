@@ -1,0 +1,17 @@
+.customPopover .popoverBody {
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+.cardDetials{
+    padding-bottom: 80px;
+}
+.cardTitle{
+    display: inline-block;
+    margin-bottom: 10px;
+}
+.uiSVGIcon {
+    margin-left: 5px;
+    display: inline-block;
+    vertical-align: middle;
+}
